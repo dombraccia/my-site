@@ -1,4 +1,5 @@
-baseURL = "www.example.com"
+baseURL = "https://dombraccia.github.io/"
+publishDir = "../dombraccia.github.io"
 languageCode = "en-us"
 title = "Hugo Whisper Theme"
 theme = "hugo-whisper-theme"
