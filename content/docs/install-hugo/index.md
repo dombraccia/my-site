@@ -4,6 +4,8 @@ title: Install Hugo
 weight: 2
 ---
 
+HERE IS MY TEST!!!!
+
 To use this theme you will need to have Hugo installed. If you don't already have Hugo installed please follow the official [installation guide](https://gohugo.io/getting-started/installing/)
 
 ### Check Hugo Version
