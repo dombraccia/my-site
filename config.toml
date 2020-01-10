@@ -1,7 +1,7 @@
 baseURL = "https://dombraccia.github.io/"
 publishDir = "dombraccia.github.io"
 languageCode = "en-us"
-title = "Hugo Whisper Theme"
+title = "personal site for Domenick J. Braccia"
 theme = "hugo-whisper-theme"
 
 pygmentsCodeFences = true
@@ -18,30 +18,30 @@ summaryLength = 30
     weight = 1
 
 [[menu.main]]
-    name = "Docs"
-    url = "/docs/"
-    weight = 2
+    name = "Blog"
+    url = "/posts/"
+    weight = 1
 
 [params]
   google_analytics_id=""
-  homepage_button_link = '/docs'
-  homepage_button_text = 'Read The Docs'
-  homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
-  homepage_image = '/images/terminal.gif'
+  homepage_button_link = '/blog'
+  homepage_button_text = 'Latest Posts'
+  homepage_intro = 'My personal site. See links to my contact information, projects, and a few blog posts.'
+  homepage_image = ''
 
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
 
   [params.homepage_meta_tags]
-    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_og_title = "Hugo Whisper Theme"
+    meta_description = "[description]"
+    meta_og_title = "personal site"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-whisper.netlify.com"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
-    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
+    meta_og_url = "https://dombraccia.github.io"
+    meta_og_image = "path/to/image/of/me"
+    meta_og_description = "personal site"
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@dombraccia"
+    meta_twitter_creator = "@dombraccia"
 
   [params.logo]
       mobile = "/images/logo-mobile.svg"
