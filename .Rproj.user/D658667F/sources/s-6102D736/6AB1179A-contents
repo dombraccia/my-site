@@ -1,6 +1,0 @@
-options(blogdown.ext = ".md", blogdown.author = "Domenick J. Braccia")
-
-# in .Rprofile of the website project
-if (file.exists("~/.Rprofile")) {
-  base::sys.source("~/.Rprofile", envir = environment())
-}
