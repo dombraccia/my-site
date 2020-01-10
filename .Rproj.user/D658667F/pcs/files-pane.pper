@@ -1,9 +1,0 @@
-{
-    "path" : "~/www/my-site",
-    "sortOrder" : [
-        {
-            "ascending" : true,
-            "columnIndex" : 2
-        }
-    ]
-}
