@@ -9,7 +9,7 @@ tags:
   - ...
 ---
 
-## TL;DR
+# TL;DR
 
 _The Power of Habit_ by Charles Duhigg is an engaging and empowering book all about how each one of us truly are – as Duhigg and many others have noted – creatures of habit. Nearly everything we do from how we talk to our friends and loved ones to what we “choose” to eat for lunch each day is really just a habit that has been ingrained in our minds over time. Duhigg takes the reader on a journey starting with an explanation of what habits are to how they dictate our lives on a societal level. It turns out that this same habit loop that causes us to brush our teeth every morning turned Rosa Park’s famous bus seating protest into a nation wide rallying call for civil rights.
 
@@ -18,15 +18,15 @@ _The Power of Habit_ by Charles Duhigg is an engaging and empowering book all ab
 **On Part 1: The Habits of Individuals.** Duhigg goes from explaining how habits form and why the brain craves them to giving the reader a simple tool kit for identifying and altering them. He shows that to change a habit, one must first identify the action and what reward we get from going through with this action. For instance, I noticed that I frequently check my phone while I am at work for no good reason at all, and it ends up distracting me for longer than I would like it to. So then I asked my self: “why do I constantly want to check my phone every 30 minutes? What satisfaction is my brain getting out of this?” After a few days of mental note taking, I determined that when I check my phone, I feel an instant sense of relief – like a large weight being lifted from my shoulders. I feel relieved that I don’t have to focus on my work for the next couple of minutes.
 The next part of tackling our nasty habits is figuring out what “cue” is causing us to perform them. With the help of Duhigg’s appendix (no not his literal appendix, the one in the book!) on habit transformation, I was able to identify the cue for my phone checking habit. By writing down these 5 things the moment the urge hits:
 
-Location
+<div align="center">**Location**</div>
 
-Time
+<div align="center">**Time**</div>
 
-Emotional State
+<div align="center">**Emotional State**</div>
 
-Other People
+<div align="center">**Other People**</div>
 
-Immediately Preceding Action
+<div align="center">**Immediately Preceding Action**</div>
 
 I was able to see my “cue” amidst the noise of a busy work day. For me, I noticed that my emotional state had the largest impact on whether or not I felt the urge to distract myself with Instagram or Reddit on my phone. While the other four variables saw little consistency, heres a short list of some emotional states I recorded immediately preceding the urge: frustrated, agitated, distracted, upset, antsy, stuck. See a theme here?
 Long story short, I followed Duhigg’s plan he laid forth, and replaced my phone checking habit with taking a 5 min walk outside any time I felt any of those unpleasant emotions. While I haven’t mastered staying off the phone at work, I at least have minimized it and have a framework for improvement going forward.
