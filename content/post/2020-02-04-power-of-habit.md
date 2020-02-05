@@ -25,15 +25,15 @@ If you are trying to start a business then it is likely that the 2nd and 3rd par
  Duhigg goes from explaining how habits form and why the brain craves them to giving the reader a simple tool kit for identifying and altering them. He shows that to change a habit, one must first identify the action and what reward we get from going through with this action. For instance, I noticed that I frequently check my phone while I am at work for no good reason at all, and it ends up distracting me for longer than I would like it to. So then I asked my self: “why do I constantly want to check my phone every 30 minutes? What satisfaction is my brain getting out of this?” After a few days of mental note taking, I determined that when I check my phone, I feel an instant sense of relief – like a large weight being lifted from my shoulders. I feel relieved that I don’t have to focus on my work for the next couple of minutes.
 The next part of tackling our nasty habits is figuring out what “cue” is causing us to perform them. With the help of Duhigg’s appendix (no not his literal appendix, the one in the book!) on habit transformation, I was able to identify the cue for my phone checking habit. By writing down these 5 things the moment the urge hits:
 
-1. **Location**
+ **Location**
 
-2. **Time**
+ **Time**
 
-3. **Emotional State**
+ **Emotional State**
 
-4. **Other People**
+ **Other People**
 
-5. **Immediately Preceding Action**
+ **Immediately Preceding Action**
 
 ## Noticing "cues"
 
