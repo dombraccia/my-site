@@ -1,5 +1,5 @@
 ---
-title: Book Review: The Power of Habit
+title: Book Review; The Power of Habit
 author: Domenick J.
 date: '2020-02-04'
 categories:
