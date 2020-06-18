@@ -4,7 +4,7 @@ title: Home
 
 # SITE IS UNDER CONSTRUCTION
 
-## Thank you for your patience :3
+## Thank you for your patience :3 <3
 
 Check out my About page for more info ... about me.
 
